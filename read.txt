@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a04572
 hai this for test
+=======
+hai this guru from jp place
+>>>>>>> .merge_file_a05160
