@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="dee.com.example.osgi.consumer">
+   <implementation class="dee.com.example.osgi.consumer.CalculatorConsumer"/>
+   <reference bind="onBind" cardinality="1..1" interface="dee.com.example.osgi.Calculator" name="Calculator" policy="static" unbind="onUnbind"/> 
+</scr:component>
