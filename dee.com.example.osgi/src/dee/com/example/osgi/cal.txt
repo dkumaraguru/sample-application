@@ -1,1 +1,1 @@
-this file contain calculator
+this file contain calculator functionality information
